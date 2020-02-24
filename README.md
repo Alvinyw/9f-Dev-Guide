@@ -1,6 +1,5 @@
 # Introduce
 
-## 创建步骤
 ### 1. 安装 [Node.js](https://nodejs.org/en/) 和 npm (Node.js 的安装包一般会包含 npm 的安装)；
 ### 2. 拉取代码：
 
@@ -59,6 +58,6 @@
    执行成功之后你会看到多了一个 **_book** 文件夹，里面就是转换好的 html 文件。
 
 ## 创建的 book
-[GitBook](https://alvinyw.github.io/Blog/GitBook/index.html)
+[GitBook](https://alvinyw.github.io/Blog/9fGuide/index.html)
    
    
