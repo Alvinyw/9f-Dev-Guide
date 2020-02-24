@@ -1,0 +1,51 @@
+{
+    "title": "设计与开发规范",
+    "author": "Alvin",
+    "description": "好好学习，天天向上",
+    "language": "zh-hans",
+    "gitbook": ">=3.2.3",
+    "styles": {
+        "website": "./styles/index.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "plugins": [
+        "-sharing",
+        "sharing-plus",
+        "splitter",
+        "expandable-chapters-small",
+        "anchors",
+        "toggle-chapters",
+        "favicon"
+    ],
+    "pluginsConfig": {
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": false,
+            "whatsapp": false,
+            "all": [
+                "google", "facebook", "weibo", "twitter",
+                "qq", "qzone", "linkedin", "pocket"
+            ]
+        },
+        "favicon": {
+            "shortcut": "./images/favicon.ico",
+            "bookmark": "./images/favicon.ico"
+        }
+    }
+}
