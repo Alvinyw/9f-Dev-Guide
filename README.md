@@ -57,7 +57,11 @@
    ```
    执行成功之后你会看到多了一个 **_book** 文件夹，里面就是转换好的 html 文件。
 
-## 创建的 book
-[GitBook](https://alvinyw.github.io/Blog/9fGuide/index.html)
+### 8. Markdown 常用语法
+- [Markdown 列表 | 菜鸟教程](https://www.runoob.com/markdown/md-lists.html?_blank)
+- [Markdown 基本语法 | 简书](https://www.jianshu.com/p/191d1e21f7ed?_blank)
+
+### 9. 创建的 book
+[GitBook](https://alvinyw.github.io/Blog/9fGuide/index.html?_blank)
    
    
